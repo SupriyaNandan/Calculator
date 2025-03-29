@@ -1,2 +1,3 @@
 # Calculator
-Calculator using JAVA
+Calculator using JAVA.
+Author-Supriya Kumari
